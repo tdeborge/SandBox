@@ -1,2 +1,2 @@
 # SandBox
-Initial Project for Sandbox Samples
+Best Practices Document
